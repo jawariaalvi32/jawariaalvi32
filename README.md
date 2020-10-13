@@ -1,6 +1,6 @@
-<p
-   ### Hi, I am Jawaria 👋 <br>
-   <samp>
+<p>
+<samp>
+    <h3> Hi, I am Jawaria 👋 </h3><br>
     🎓 A Software Engineering Undergraduate Student.<br>
     :notebook: I’m currently learning React...  <br>
     :email:	jawariaalvi32@gmail.com <br>
