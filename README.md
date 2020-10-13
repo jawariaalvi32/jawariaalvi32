@@ -1,4 +1,4 @@
-<p align="center">
+<p
   <samp>
     Hi, I'm Jawaria! 👋 <br>
     🎓 A Software Engineering Undergraduate Student.<br>
