@@ -1,6 +1,6 @@
 <p
   <samp>
-    Hi, I'm Jawaria! 👋 <br>
+   ### Hi, I am Jawaria 👋 <br>
     🎓 A Software Engineering Undergraduate Student.<br>
     :notebook: I’m currently learning React...  <br>
     :email:	jawariaalvi32@gmail.com <br>
