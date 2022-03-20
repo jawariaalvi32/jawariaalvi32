@@ -6,8 +6,6 @@
 [![Linkedin: jawarialalvi](https://img.shields.io/badge/-jawariaalvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jawariaalvi/)](https://www.linkedin.com/in/jawariaalvi/)
 [![GitHub Jawaria](https://img.shields.io/github/followers/jawariaalvi32?label=follow&style=social)](https://github.com/jawariaalvi32)
 
-### A little more about me...  
-
 - :woman_technologist: A passionate developer who loves to explore new things.
 - 🌱 I'm currently improving my MERN Stack skills.
 
